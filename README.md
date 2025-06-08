@@ -10,5 +10,5 @@
 
 ### Default Parameters
 <div align="center">
-  <img width="100%" alt="BPNet Pipeline" src="teaser/pipeline.png">
+  <img width="100%" alt="BPNet Pipeline" src="fig/parameters.png">
 </div>
