@@ -1,5 +1,6 @@
 # normal-orientation-lsdg
 
+Consistent Normal Orientation for 3D Point Clouds via Least Squares on Delaunay Graph
 
 ### Dependencies
 - Boost
