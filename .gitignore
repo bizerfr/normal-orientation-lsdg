@@ -1,0 +1,8 @@
+.DS_store
+.vscode
+build
+build/*
+intermediate-results
+intermediate-results/*
+
+
