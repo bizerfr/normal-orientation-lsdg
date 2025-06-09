@@ -14,5 +14,8 @@ Consistent Normal Orientation for 3D Point Clouds via Least Squares on Delaunay 
   <img width="100%" alt="BPNet Pipeline" src="fig/parameters.png">
 </div>
 
-
 ### The compiled binary for Windows 10 is available, and the full source code will be released soon.
+
+### Tips for Using the Toolbox
+- Normalize can be skipped.
+- Using Jet_estimaite_normals, if normals are not provided.
